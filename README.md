@@ -2,7 +2,7 @@
 
 A multi-method NLP analysis of how five news outlets (CNN, BBC, Associated Press, Fox News, and NewsMax) frame coverage across five contested topics. The paper argues that single-axis bias ratings collapse useful information about *how* outlets cover news, and builds a multi-dimensional profile approach that surfaces patterns those ratings cannot capture.
 
-**Paper:** [News Profiles Paper.pdf](./paper/News%20Profiles%20Paper.pdf)
+**Paper:** [News Profiles Paper.pdf](./paper/News_Profiles_Paper_Jack_Wood.pdf)
 
 **Interactive explorer:** [Hugging Face Space](https://huggingface.co/spaces/Jack-O-Wood/news-outlet-profiles)
 
