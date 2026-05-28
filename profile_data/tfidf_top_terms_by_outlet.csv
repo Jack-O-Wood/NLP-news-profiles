@@ -1,0 +1,101 @@
+outlet,rank,term,score
+AP,1,people,0.0456
+AP,2,state,0.0385
+AP,3,president,0.0366
+AP,4,government,0.0302
+AP,5,oil,0.0298
+AP,6,military,0.0296
+AP,7,like,0.0287
+AP,8,energy,0.028
+AP,9,security,0.0276
+AP,10,world,0.0273
+AP,11,court,0.0269
+AP,12,administration,0.0265
+AP,13,according,0.0263
+AP,14,company,0.0259
+AP,15,trumps,0.0257
+AP,16,israel,0.0256
+AP,17,million,0.0255
+AP,18,time,0.0255
+AP,19,billion,0.0254
+AP,20,prices,0.0253
+BBC,1,uk,0.0492
+BBC,2,people,0.0479
+BBC,3,government,0.0397
+BBC,4,technology,0.0369
+BBC,5,sport,0.0367
+BBC,6,culture,0.0365
+BBC,7,audio,0.0353
+BBC,8,arts,0.035
+BBC,9,council,0.0346
+BBC,10,america,0.0339
+BBC,11,home,0.0327
+BBC,12,world,0.0318
+BBC,13,health,0.0313
+BBC,14,wales,0.0295
+BBC,15,earth,0.029
+BBC,16,told,0.0289
+BBC,17,scotland,0.0286
+BBC,18,travel,0.0275
+BBC,19,energy,0.0271
+BBC,20,time,0.0265
+CNN,1,people,0.0417
+CNN,2,videos,0.0392
+CNN,3,house,0.039
+CNN,4,iran,0.0362
+CNN,5,ice,0.0349
+CNN,6,source,0.0325
+CNN,7,virginia,0.0309
+CNN,8,world,0.0308
+CNN,9,war,0.0307
+CNN,10,president,0.0303
+CNN,11,media,0.0299
+CNN,12,china,0.0298
+CNN,13,like,0.0296
+CNN,14,social,0.0286
+CNN,15,time,0.0285
+CNN,16,told,0.0284
+CNN,17,chinese,0.0281
+CNN,18,prices,0.028
+CNN,19,chinas,0.0272
+CNN,20,strait,0.0271
+Fox News,1,people,0.0425
+Fox News,2,president,0.0422
+Fox News,3,state,0.0393
+Fox News,4,like,0.0335
+Fox News,5,told,0.0324
+Fox News,6,security,0.0323
+Fox News,7,house,0.0313
+Fox News,8,democrats,0.0307
+Fox News,9,energy,0.0291
+Fox News,10,american,0.029
+Fox News,11,administration,0.0278
+Fox News,12,law,0.0275
+Fox News,13,states,0.0272
+Fox News,14,time,0.0272
+Fox News,15,going,0.0266
+Fox News,16,enforcement,0.0263
+Fox News,17,federal,0.0262
+Fox News,18,america,0.0261
+Fox News,19,country,0.0253
+Fox News,20,according,0.025
+Newsmax,1,iran,0.0423
+Newsmax,2,prices,0.0421
+Newsmax,3,people,0.0371
+Newsmax,4,energy,0.0369
+Newsmax,5,security,0.0359
+Newsmax,6,oil,0.0359
+Newsmax,7,military,0.0333
+Newsmax,8,strait,0.0328
+Newsmax,9,president,0.0319
+Newsmax,10,state,0.0318
+Newsmax,11,administration,0.0302
+Newsmax,12,global,0.0291
+Newsmax,13,war,0.0289
+Newsmax,14,including,0.0286
+Newsmax,15,government,0.0282
+Newsmax,16,democrats,0.028
+Newsmax,17,house,0.0278
+Newsmax,18,gas,0.0258
+Newsmax,19,inflation,0.0258
+Newsmax,20,reported,0.0256

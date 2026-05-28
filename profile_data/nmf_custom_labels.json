@@ -1,0 +1,37 @@
+{
+  "Economy": {
+    "T1": "Fiscal policy & social spending debate",
+    "T2": "Iran / Strait of Hormuz & oil supply risk",
+    "T3": "Monetary policy & inflation (Fed)",
+    "T4": "Epstein, house seats, congress, virginia",
+    "T5": "Latin America sanctions & tariffs"
+  },
+  "Immigration": {
+    "T1": "Federal enforcement & state pushback",
+    "T2": "Virginia, resigns congress, house seats",
+    "T3": "TSA / airport security & DHS funding",
+    "T4": "Channel, democrats, senate, funding",
+    "T5": "Videos, media mocks, addresses allegations"
+  },
+  "AI": {
+    "T1": "Lifestyle & culture verticals",
+    "T2": "Tech & digital products / data privacy",
+    "T3": "China rises",
+    "T4": "Macro economy & energy markets",
+    "T5": "Anthropic / AI defense & national security"
+  },
+  "Iran": {
+    "T1": "Iran\u2013Israel conflict & nuclear talks",
+    "T2": "democratic, seats, speaks",
+    "T3": "media mocks, escapes north, daring escapes",
+    "T4": "Military & expert analysis (TV punditry)",
+    "T5": "Hormuz / oil supply disruption"
+  },
+  "Climate": {
+    "T1": "US politics & climate funding",
+    "T2": "Extreme weather & seasonal events",
+    "T3": "EPA regulation & endangerment finding",
+    "T4": "Energy mix & fossil fuel markets",
+    "T5": "Greenland / Arctic geopolitics"
+  }
+}

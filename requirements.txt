@@ -1,0 +1,25 @@
+# Core data handling
+pandas
+numpy
+
+# Machine learning and NLP
+scikit-learn
+nltk
+spacy
+nrclex
+
+# Web scraping and data collection
+trafilatura
+mediacloud
+requests
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Interactive app
+gradio
+
+# Excel I/O for reporting tables
+openpyxl
